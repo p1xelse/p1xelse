@@ -10,11 +10,12 @@
 
 <br>
 
-- 📫 Student of VK Technopark.
+- :student: Student of VK Technopark.
+
+- :student: BMSTU Student ICS7(2rd year);
 
 - :muscle: Sportsman
 
-- :student: BMSTU Student ICS7(2rd year);
 
 <br>
 
