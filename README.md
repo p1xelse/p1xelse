@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/dm1tr1yggwp" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="dm1tr1yggwp" height="30" width="40" /></a>
-  <a href="https://vk.com/dmitryggwp target="blank"><img align="center"
+  <a href="https://vk.com/dmitryggwp" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg"
       alt="dm1tr1yggwp" height="30" width="40" /></a>
   <a href="https://t.me/p1xelunreal" target="blank"><img align="center"
