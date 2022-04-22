@@ -61,25 +61,9 @@
 
 
 <br>
+<h3 align="left">Stats:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=p1xelse&show_icons=true&locale=en" alt="p1xelse" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p1xelse&show_icons=true&locale=en&layout=compact" alt="p1xelse" />
+</p>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=p1xelse&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="p1xelse" bg_color=#808080 /></p>
-
-<br>
-
-<p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=p1xelse&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="p1xelse" /></p>
-
-<br>
-
-<p><img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=p1xelse&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
-    alt="p1xelse" /></p>
-
-<!-- <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=p1xelse&bg_color=0d1117&text_color=ffffff" alt="p1xelse" /></a> </p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p1xelse&" alt="p1xelse" /></p>
