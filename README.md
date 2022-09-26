@@ -12,6 +12,8 @@
 
 - :student: Student of VK Technopark.
 
+- :technologist: Junior developer VK/Tarantool
+
 - :student: BMSTU Student ICS7(3rd year);
 
 - :muscle: Sportsman
