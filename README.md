@@ -12,7 +12,7 @@
 
 - :student: Student of VK Technopark.
 
-- :student: BMSTU Student ICS7(2rd year);
+- :student: BMSTU Student ICS7(3rd year);
 
 - :muscle: Sportsman
 
