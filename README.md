@@ -12,9 +12,9 @@
 
 - :student: Student of VK Technopark.
 
-- :technologist: Junior developer VK/Tarantool
+- :technologist: Junior developer VK/Реклама
 
-- :student: BMSTU Student ICS7(3rd year);
+- :student: BMSTU Student ICS7(4rd year);
 
 - :muscle: Sportsman
 
