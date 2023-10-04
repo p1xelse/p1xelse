@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry Neumoin</h1>
-<h3 align="center">BMSTU Student ICS7(3rd year);🌟.</h3>
+<h3 align="center">BMSTU Student ICS7(4th year);🌟.</h3>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 - :technologist: Junior developer VK/Реклама
 
-- :student: BMSTU Student ICS7(4rd year);
+- :student: BMSTU Student ICS7(4th year);
 
 - :muscle: Sportsman
 
