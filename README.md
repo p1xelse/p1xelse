@@ -12,7 +12,7 @@
 
 - :student: Student of VK Technopark.
 
-- :technologist: Junior developer VK/Реклама
+- :technologist: Middle developer Avito
 
 - :student: BMSTU Student ICS7(4rd year);
 
