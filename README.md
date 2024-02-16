@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry Neumoin</h1>
-<h3 align="center">BMSTU Student ICS7(3rd year);🌟.</h3>
+<h3 align="center">BMSTU Student ICS7(4rd year);🌟.</h3>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-- :student: Student of VK Technopark.
+- :student: Graduated from the VK Technopark.
 
 - :technologist: Middle developer Avito
 
