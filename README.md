@@ -14,7 +14,7 @@
 
 - :technologist: Middle developer Avito
 
-- :student: BMSTU Student ICS7(4rd year);
+- :student: Graduated from the BMSTU ICS7;
 
 - :muscle: Sportsman
 
