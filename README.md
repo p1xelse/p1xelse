@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dmitry Neumoin</h1>
-<h3 align="center">BMSTU Student ICS7(4rd year);🌟.</h3>
 
 <br>
 
