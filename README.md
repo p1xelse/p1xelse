@@ -11,7 +11,7 @@
 
 - :student: Graduated from the VK Technopark.
 
-- :technologist: Middle+ developer Avito
+- :technologist: Developer Avito
 
 - :student: Graduated from the BMSTU ICS7;
 
