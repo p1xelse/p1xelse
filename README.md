@@ -11,8 +11,6 @@
 
 - :student: Graduated from the VK Technopark.
 
-- :technologist: Developer Avito
-
 - :student: Graduated from the BMSTU ICS7;
 
 - :muscle: Sportsman
